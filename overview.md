@@ -26,20 +26,16 @@ The project aims to develop a web application using React to assist customers in
 - Showcase images of zodiac-inspired necklaces and related products.
 - Organize products by zodiac sign for easy browsing.
 
-### 5. Product Details:
+### 5. Zodiac Personality Profile Details:
 
-- Provide detailed information about each product, including materials, sizes, and customization options.
+- Provide detailed information about the meaning behind the user's astrological chart.
 
-### 6. Customization Tool:
 
-- Allow users to select a zodiac product and customize it with their calculated big three signs.
-- Provide a visual representation of the customized product.
-
-### 7. User Profiles:
+### 6. User Profiles:
 
 - Users can view and edit their account details and saved customizations.
 
-### 8. Responsive Design:
+### 7. Responsive Design:
 
 - Ensure the web app is mobile-friendly for a seamless user experience on various devices.
 
