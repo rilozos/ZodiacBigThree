@@ -1,4 +1,4 @@
-# Zodiac Necklace Customization Web App
+# Zodiac Big Three Web App
 
 ## Project Overview
 
