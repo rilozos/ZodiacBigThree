@@ -30,7 +30,6 @@ The project aims to develop a web application using React to assist customers in
 
 - Provide detailed information about the meaning behind the user's astrological chart.
 
-
 ### 6. User Profiles:
 
 - Users can view and edit their account details and saved customizations.
